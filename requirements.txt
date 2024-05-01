@@ -1,0 +1,10 @@
+bs4==0.0.2
+huggingface-hub==0.22.2
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-core==0.1.48
+pandas==2.2.2
+tensorflow==2.16.1
+tf==1.0.0
+tokenizers==0.19.1
+transformers==4.40.1
