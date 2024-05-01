@@ -1,4 +1,4 @@
-token="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"
+token=<hugging_face_api_token>
 
 from langchain  import HuggingFaceHub
 from langchain.chains import LLMChain, LLMRequestsChain
